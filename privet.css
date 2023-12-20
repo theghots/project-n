@@ -1,0 +1,27 @@
+body{
+	background:#303030;
+}
+h1{
+	color: white;
+	text-align: center;
+	font-size: 600%;
+}
+li{
+	font-size: 350%;
+	color: #CBC3E3;	
+	display: inline-block;
+	padding: 19px;
+}
+button{
+	background: #303030;
+	font-size: 200%;
+}
+.images-1{
+	display: inline-block;
+	padding: 5%;
+
+}
+.images-2{
+	display: inline-block;
+	padding: 4%;
+}
